@@ -1,16 +1,26 @@
-## Hi there 👋
+ Hi, I'm Kasturi Halli 
 
-<!--
-**kasturi-Halli/kasturi-halli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ECE Student  
+ Python Programmer  
+ Interested in Embedded Systems and Software Development  
 
-Here are some ideas to get you started:
+ Skills
+- Python
+- C Programming
+- HTML Basics
+- Arduino
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Projects
+🔹 Bank Management System (Python OOP)  
+🔹 Sonar Based Alert System using Arduino UNO  
+🔹 Student Management System in Python  
+
+ Currently Learning
+- Advanced Python
+- HTML 
+  
+Contact Me
+Email: kasturichannappa747@gmail.com
+
+Thanks for visiting my profile!
