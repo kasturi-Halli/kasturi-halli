@@ -12,9 +12,9 @@
 - Problem Solving
 
  Projects
-🔹 Bank Management System (Python OOP)  
-🔹 Sonar Based Alert System using Arduino UNO  
-🔹 Student Management System in Python  
+   Bank Management System (Python OOP)  
+   Sonar Based Alert System using Arduino UNO  
+   Student Management System in Python  
 
  Currently Learning
 - Advanced Python
